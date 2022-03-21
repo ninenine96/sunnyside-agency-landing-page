@@ -14,6 +14,7 @@ export const Herosection = () => {
                     <img
                         src="images/icon-arrow-down.svg"
                         className="arrow1"
+                        alt="down-arrow"
                     ></img>
                 </div>
 
